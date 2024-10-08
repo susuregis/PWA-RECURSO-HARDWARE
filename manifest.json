@@ -1,0 +1,22 @@
+{
+    "name": "Busca de Endereço por CEP",
+    "short_name": "CEPApp",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "#f0f4f8",
+    "theme_color": "#4A90E2",
+    "description": "Uma PWA para buscar endereços por CEP usando reconhecimento de voz.",
+    "icons": [
+      {
+        "src": "icons/icon-192x192.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "icons/icon-512x512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ]
+  }
+  
