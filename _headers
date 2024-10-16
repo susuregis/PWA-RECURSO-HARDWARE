@@ -1,0 +1,4 @@
+/service-worker.js
+  Cache-Control: no-store
+/manifest.json
+  Cache-Control: no-cache
