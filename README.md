@@ -22,3 +22,29 @@ Você pode testar localmente ou acessar pelo link (se estiver hospedado).
 1. Clone este repositório:
    ```bash
    git clone https://github.com/seu-usuario/seu-repo.git
+
+2. Navegue até a pasta do projeto:
+    ```bash
+    cd nome-do-projeto
+
+3.Abra o index.html no navegador.
+
+
+
+### 🧪 Tecnologias usadas
+
+
+- HTML5
+
+- CSS3
+
+- JavaScript (puro)
+
+- API ViaCEP
+
+- Manifest PWA
+
+- Service Worker
+
+
+
