@@ -30,6 +30,9 @@ Você pode testar localmente ou acessar pelo link (se estiver hospedado).
 3.Abra o index.html no navegador.
 
 
+---
+
+
 
 ### 🧪 Tecnologias usadas
 
